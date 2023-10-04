@@ -9,3 +9,7 @@ maybe later i will make it better for anyone
 # C/C++
 For now code will be in C/C++
 after that i will add python too
+
+
+
+
