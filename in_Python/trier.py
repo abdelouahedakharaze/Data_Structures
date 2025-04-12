@@ -15,3 +15,8 @@ print(m)
 print(list(m))
 m=map(lambda x:x*2, l)
 print(list(m))
+
+a=["a", "b", "c"]
+z=zip(a, l)
+print(z)
+print(list(z))
